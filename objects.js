@@ -1,2 +1,2 @@
-var playlist =[      
-  Wham:"Wake me up before you go go"]
+var playlist = {    
+  Wham:"Wake me up before you go go"};
